@@ -1,8 +1,14 @@
 # VS-Snipptes
-List of VS Snippets to improve and help you while coding...   
+List of VS Snippets to improve and help you while coding...
+
+<br>
 
 ## To use snippets / Download and Import in Visual Studio
+#### In VS > Tools > Code Snippets Manager
+##### Import > Select .snippet file
+
+<br>
 
 ### Snippet List : 
-- cr # Console.ReadLine()
-- void # New private method/function
+- <code>cr</code> Console.ReadLine()
+- <code>void</code> New private method/function
