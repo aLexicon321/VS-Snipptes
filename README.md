@@ -11,4 +11,4 @@ List of VS Snippets to improve and help you while coding...
 
 ### Snippet List : 
 - <code>cr</code> Console.ReadLine()
-- <code>void</code> New private method/function
+- <code>void</code> New public method/function
